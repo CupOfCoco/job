@@ -325,8 +325,8 @@ img {
   }
 }
 model-viewer {
-  width: 58vw;
-  height: 100vh;
+  width: 80vw;
+  height: 80vh;
   background: transparent;
 }
 .home-description{
